@@ -7,7 +7,7 @@ To set up a Go project from GitHub on another system, follow these steps:
 
 ## 1. Install Go
 
-Ensure Go is installed on the system. Download it from the [official Go website](https://golang.org/dl/).
+Ensure Go is installed on the system. Download it from the [official Go website](https://go.dev/doc/install).
 
 ## 2. Clone the Repository
 
